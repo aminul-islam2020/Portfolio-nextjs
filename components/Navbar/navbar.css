@@ -1,0 +1,15 @@
+/* styles/navbar.css */
+.navbar {
+    font-family: 'Roboto', sans-serif;
+    /* Or replace with your desired font */
+}
+
+.navbar a {
+    font-family: 'Roboto', sans-serif;
+    /* Ensures links use the correct font */
+}
+
+.font-ovo {
+    font-family: 'Ovo', serif;
+    /* Example for your custom class */
+}
